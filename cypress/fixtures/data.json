@@ -1,0 +1,35 @@
+{
+    "urlBase": "https://jsonplaceholder.typicode.com",
+    
+    "createPost" : {
+        "title" : "Hello World",
+        "bodyText" : "this is a exemple of a body text to this test"
+    },
+
+    "listPost" : {
+        "id" : "1",
+        "PostId" :"12",
+        "doesntExistId": "120",
+        "title": "rem alias distinctio quo quis",
+        "body" : "sunt dolores aut doloribus\ndolore doloribus voluptates tempora et\ndoloremque et quo\ncum asperiores sit consectetur dolorem",
+        "comments": "neque unde voluptatem iure\nodio excepturi ipsam ad id\nipsa sed expedita error quam\nvoluptatem tempora necessitatibus suscipit culpa veniam porro iste vel"
+    },
+
+    "updatePost" :{
+        "id" : "67",
+        "title" : "Pizza",
+        "body": "I wannt to eat a pizza"
+    },
+    
+    "deletePost" :{
+        "id" : "80"
+    },
+
+    
+    "patchPost" :{
+        "id" : "47",
+        "title" : "Coffe",
+        "body": "Coffe makes me crazy all day"
+    }
+
+}
